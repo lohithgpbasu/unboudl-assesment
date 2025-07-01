@@ -32,14 +32,7 @@ A fully responsive, interactive landing page built using **HTML**, **CSS**, and 
 
 ## 🧱 Project Structure
 
-/clove-dental/
-│
-├── index.html
-├── style.css
-├── index.js
-├── /assets/
-└── README.md
-
+![PRoject Structure](assest/image.png)
 
 ---
 
