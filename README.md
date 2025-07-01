@@ -6,7 +6,7 @@ A fully responsive, interactive landing page built using **HTML**, **CSS**, and 
 
 ## 🚀 Live Demo
 
-🔗 [View Live on Netlify](https://your-netlify-url.netlify.app)  
+🔗 [View Live on Netlify](https://clovedental-unbundl.netlify.app/)  
 
 ---
 
@@ -40,8 +40,8 @@ A fully responsive, interactive landing page built using **HTML**, **CSS**, and 
 
 This project can be deployed using:
 
-- ✅ [Netlify](https://www.netlify.com/)
-- ✅ [GitHub Pages](https://pages.github.com/)
+- ✅ [Netlify](https://clovedental-unbundl.netlify.app/)
+- ✅ [GitHub Pages](https://github.com/lohithgpbasu/unboudl-assesment.git)
 - ✅ Vercel or any static host
 
 ---
